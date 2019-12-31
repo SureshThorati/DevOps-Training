@@ -1,2 +1,3 @@
 Add new file b2
 created b2 on branch1
+updating in tge master branch
