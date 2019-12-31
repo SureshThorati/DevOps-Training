@@ -1,1 +1,2 @@
 created b2 on branch1
+Hello how are you, added in the branch2
